@@ -1,0 +1,16 @@
+﻿  math_3d.cpp
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(44,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(45,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(75,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(75,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(76,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(76,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(77,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(77,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\1\dev2\project\lab4\23\23\math_3d.cpp(125,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  mesh.cpp
+D:\1\dev2\project\lab4\23\23\mesh.cpp(27,32): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  texture.cpp
+D:\1\dev2\project\lab4\23\23\texture.cpp(24,86): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+  Создание кода...
+  23.vcxproj -> D:\1\dev2\project\lab4\23\x64\Debug\23.exe
